@@ -1,0 +1,5 @@
+
+    user_name: "standard_user"
+    password: "secret_sauce"
+    user_name_error: "user_name"
+    password_error: "password"

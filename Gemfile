@@ -5,3 +5,4 @@ gem "capybara"
 gem "rspec"
 gem "rufo"
 gem "selenium-webdriver"
+gem 'allure-cucumber'

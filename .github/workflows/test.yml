@@ -2,9 +2,9 @@ name: Execução dos testes para o projeto Enjoeat
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
     
   schedule:
     - cron: "* 8 1 * *"
